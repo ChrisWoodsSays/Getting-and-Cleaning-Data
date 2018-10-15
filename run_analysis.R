@@ -16,7 +16,6 @@
 
 library(readr)
 library(dplyr)
-setwd("/Users/Chris/Dropbox/Data Science/Coursera/3-Getting & Cleaning Data")
 
 #######################
 # 1. Download Zip Files
