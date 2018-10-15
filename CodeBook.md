@@ -4,7 +4,7 @@
 
 This code book relates to two datasets within this repository, tidy_human_activity.txt and human_activity_summary.txt.
 
-See the README.md file of this repository for background information on this data set.
+See the README.md file of this repository for background information on these data sets.
 
 The source of data is described in the [Input Data](#input_data) section, the structure of the resultring data in the [Output Data](#output_data) section, its variables are listed in the [Variables](#variables) section and the transformations that were carried out to obtain the output data set based on the source data are presented in the [Transformations](#transformations) section.
 
